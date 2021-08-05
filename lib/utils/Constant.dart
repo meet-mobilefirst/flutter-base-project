@@ -54,8 +54,4 @@ class Constant {
     'Wisconsin',
     'Wyoming'
   ];
-
-  static String channelIdForNotification = "com.app.boozli";
-  static String channelDescForNotification = "Notifications for Boozlr";
-  static String channelNameForNotification = "Boozlr";
 }
