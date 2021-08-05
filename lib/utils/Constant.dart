@@ -1,7 +1,5 @@
 class Constant {
   static String fontFamily = 'proximanova';
-  static String publishableKey =
-      'pk_test_51InxxiKKOcUDMtoPMxeU0tdgGlbeEFt0h4LMyDcVbKKdbmGs70kfzTyPYcVv2Kw5ythn2KGdhpPjYtXWMrPO2WID00hywTimP9';
   static List<String> usStates = [
     "Alabama",
     "Alaska",
